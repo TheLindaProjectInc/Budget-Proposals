@@ -1,6 +1,6 @@
 # Budget Proposals
 
-This is a temporary budget proposal repository outlining proposals for Budget allocation from the Metrixcoin DBP budgets.
+This is a temporary budget proposal repository outlining proposals for Budget allocation from the Metrixcoin DGP budgets.
 
 The current budget amount can be viewed at https://explorer.metrixcoin.com/address/28238c7d116aa2ca3739c4c93038fd5a06a77303 under the Metrix balance value. This will increase during the course of a month until the settlement block is reached, at which point funds will be either paid out to passed budget proposals or burned if no proposal is passed. Settlement is every 28800 blocks.
 
