@@ -14,3 +14,7 @@ Proposals can then be submitted via the Governance tab in Altitude. (Remember to
 All chain burns can be viewed on the below address, this includes the monthly budget burn of unallocated funds. (There is a lot of pages here, so scrolling through may take some time.)
 
 https://explorer.metrixcoin.com/address/M7uAERuQW2AotfyLDyewFGcLUDtAYu9v5V/
+
+## Web3 Governors
+
+You can enroll and manage your governor from MetriMask or any other Metrix compatibile Web3 wallet. The [page](/#) for this repository
