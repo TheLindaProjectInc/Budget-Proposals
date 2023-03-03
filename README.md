@@ -17,4 +17,4 @@ https://explorer.metrixcoin.com/address/M7uAERuQW2AotfyLDyewFGcLUDtAYu9v5V/
 
 ## Web3 Governors
 
-You can enroll and manage your governor from MetriMask or any other Metrix compatibile Web3 wallet. The [page](/#) for this repository
+You can enroll and manage your governor from MetriMask or any other Metrix compatibile Web3 wallet. [Interact with the DGP on thepage for this repository.](/#)
